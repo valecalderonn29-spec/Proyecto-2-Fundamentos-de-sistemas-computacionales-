@@ -2,7 +2,7 @@
 #Bitacora del proyecto
 
 #########################################################################
-El miércoles 27 de Mayo:
+                                El miércoles 27 de Mayo:
 -Yosep trabajó en el código y circuito del potenciometro
 -Valeria trabajó en el código y el circuito del 7 segmentos
 -Juntos trabajamos en la soldadura del 7 segmentos a la placa perforada
